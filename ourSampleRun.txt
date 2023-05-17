@@ -1,0 +1,230 @@
+Script started on 2022-10-26 19:21:39-04:00 [TERM="xterm-256color" TTY="/dev/pts/4" COLUMNS="120" LINES="30"]
+]0;kaisernj@stu: ~/cs457/pa-02[01;32mkaisernj@stu[00m:[01;34m~/cs457/pa-02[00m$ ./genPkey.sh
+
+
+.........................................+++++
+..............................................................................+++++
+writing RSA key
+=====================================
+Here is Amal's RSA Key Information
+=====================================
+RSA Private-Key: (2048 bit, 2 primes)
+modulus:
+    00:d1:b5:27:50:cb:d8:95:cd:cf:4f:8c:20:a1:dd:
+    b8:4a:4f:6f:02:9a:32:fb:0d:ee:11:d5:9b:d7:5e:
+    52:c5:8f:69:a2:79:80:ed:53:8d:77:2c:fc:bf:25:
+    6f:ed:1a:27:ed:e4:83:60:30:24:9e:6c:37:e0:d3:
+    96:42:fe:c1:fe:90:ba:e6:01:fb:a7:05:b5:be:6a:
+    e5:90:77:23:59:d6:de:14:5a:27:3d:35:fc:b0:16:
+    44:e3:85:63:f3:c3:bf:a6:6e:1f:10:0f:c5:92:0d:
+    9b:11:33:6a:9d:1d:31:2c:70:6f:e7:4c:2f:5a:c1:
+    8e:e0:e3:b5:8d:69:34:e1:67:25:50:ce:0f:da:30:
+    79:15:21:9d:d8:44:c0:b9:7c:86:7d:8a:79:35:3f:
+    cf:14:c0:63:3b:c6:d6:84:62:63:3c:7c:41:32:fe:
+    4b:5a:54:85:96:63:82:22:7d:67:36:0c:50:72:5b:
+    2f:3c:b4:cf:bc:57:05:fa:ec:55:2f:7e:c9:d2:c5:
+    58:91:5b:21:24:45:f4:cb:1f:6e:0f:2c:86:4c:74:
+    9c:bc:1c:7d:99:20:c7:8a:9c:9e:37:ab:bf:79:16:
+    55:32:8b:53:f7:47:d7:e9:f9:20:44:b0:c8:2f:13:
+    8e:87:a1:c1:8b:21:5a:fa:88:02:0b:84:18:eb:a1:
+    02:0f
+publicExponent: 65537 (0x10001)
+privateExponent:
+    00:ca:1a:03:e1:e2:12:c1:8c:af:96:c2:3d:50:c2:
+    15:b1:c8:0b:fc:3e:0f:93:d4:40:f3:ff:21:49:d6:
+    25:7f:30:4f:65:be:23:7a:95:63:68:cf:7a:65:dc:
+    f6:99:52:f3:d8:58:ba:24:21:41:a9:4c:32:2e:02:
+    bc:75:a4:7f:e1:8e:2a:11:31:28:0e:37:7a:88:21:
+    0d:4c:c5:04:d4:b8:37:1e:f6:23:8a:e2:54:bc:7f:
+    39:b4:ec:01:00:14:4e:c7:5e:a9:a1:19:12:17:47:
+    f5:82:06:43:61:57:98:e4:73:17:e5:99:8e:a9:b0:
+    90:ba:3b:b9:e4:a6:d7:c7:c1:99:6b:ee:35:ac:de:
+    10:a2:69:6a:80:d3:bd:e4:e4:80:95:29:2c:ac:7f:
+    42:92:ec:20:49:3f:e9:13:45:ee:df:2b:80:f1:79:
+    a5:da:c3:f8:79:21:dd:ba:de:79:3c:82:19:70:d8:
+    2b:19:4e:22:d1:02:aa:93:b3:4f:bc:8a:8d:85:ad:
+    3c:6c:19:3e:71:15:d5:ac:84:af:77:19:f3:6c:51:
+    1a:5f:a0:66:ec:99:8f:05:a0:93:ae:52:c9:43:c5:
+    e7:b4:88:7b:79:af:3e:0c:1d:b4:89:37:b6:22:ee:
+    ba:c8:37:1c:46:19:b6:b9:cb:d3:f1:7b:30:0e:f5:
+    05:41
+prime1:
+    00:ef:03:3a:e8:1b:95:35:fc:99:b8:d3:09:93:df:
+    2f:61:ad:85:e9:1b:b7:1c:cc:7a:dd:e4:bf:2c:6f:
+    76:6c:b2:60:5d:8d:3a:e8:f4:15:f4:74:27:aa:dc:
+    0a:39:5b:82:9b:8f:d1:05:fa:13:3c:a4:9a:5e:34:
+    cf:1e:68:ad:5d:24:50:62:4f:00:43:9d:17:0a:e7:
+    15:51:31:13:4e:9a:e0:c7:67:42:0b:ff:24:27:46:
+    66:ab:a4:02:9d:ee:3f:a9:4d:af:0c:41:7d:dc:07:
+    73:0f:52:fd:a4:a0:b2:63:5d:a3:f6:84:53:ff:ab:
+    ae:24:67:55:77:37:12:b7:3d
+prime2:
+    00:e0:9c:ba:28:1f:06:68:06:d1:72:c6:a8:29:ac:
+    26:67:cc:0e:06:12:ce:51:62:c4:be:f0:3d:72:f2:
+    00:de:6d:35:47:2c:83:71:9f:1c:8a:13:a1:fc:72:
+    b9:ea:44:43:a4:a9:02:9b:32:a3:ec:c9:0c:dc:9a:
+    0e:69:fa:2b:c0:fc:b0:4a:d1:d8:fd:96:67:ec:3f:
+    91:3f:17:f8:f1:a1:05:a7:06:56:f6:c0:cc:5c:b1:
+    e0:2d:34:eb:58:82:71:96:39:4b:c2:5e:08:cb:1a:
+    69:02:9d:cc:2c:8f:4c:d8:d6:f9:65:bd:87:4c:3f:
+    91:77:f7:31:f7:1b:08:53:3b
+exponent1:
+    1b:6b:05:70:e6:e9:20:fe:4f:2c:12:99:80:ab:13:
+    a6:62:df:7f:b4:3c:37:43:85:bc:ba:a6:eb:94:05:
+    c3:c6:5a:a3:a0:b5:e7:4f:48:cd:78:1d:ac:cd:fd:
+    26:43:47:22:4d:47:2f:26:56:da:98:0f:55:4b:3d:
+    8f:41:76:d1:be:7e:b2:28:59:e1:67:bd:e2:f4:4b:
+    4f:bb:0f:79:ee:ee:66:31:84:34:18:1a:af:9e:b5:
+    dc:6e:be:16:1b:e4:95:a9:61:b1:48:3a:05:e9:9c:
+    db:5f:2b:d5:9c:d1:99:f0:7e:04:a3:7d:77:50:dc:
+    73:34:9f:6b:43:98:14:09
+exponent2:
+    4d:d4:60:f9:08:0f:1b:3a:c9:96:c0:d9:82:5f:21:
+    8b:b3:fc:64:04:5e:33:7b:4a:fb:72:99:88:5b:ed:
+    0b:25:c2:61:60:3e:47:bf:bf:8e:e4:d0:ab:7e:41:
+    87:b8:91:cb:db:b8:88:78:9a:ae:b0:d7:e1:15:0c:
+    cb:92:21:59:24:f6:1d:66:eb:8e:ab:70:65:3f:7d:
+    9f:e4:39:a1:d8:8e:f1:da:53:85:fb:36:95:24:19:
+    ae:f0:78:60:5a:0a:eb:e7:fc:a5:64:1a:1d:ee:8f:
+    d6:95:41:2b:6b:98:50:46:e5:72:68:a3:1a:3b:a8:
+    b7:6e:13:85:31:7b:c8:03
+coefficient:
+    00:9d:ba:38:69:c7:66:e7:5c:1f:30:22:04:37:72:
+    7d:30:a4:12:82:e0:49:22:c8:26:6f:9f:2c:8b:b5:
+    f6:8a:bd:3b:e1:10:b9:47:76:44:41:8a:0e:88:b9:
+    56:03:c9:d0:53:31:ed:19:88:ef:b6:44:a2:0e:8e:
+    da:79:b4:db:ac:bf:ce:a4:18:0f:bc:38:f2:47:9e:
+    b2:99:0c:98:01:40:ab:bc:10:74:72:b7:c9:c3:e3:
+    64:b7:be:63:6b:f7:2b:9f:eb:39:99:a6:06:4b:04:
+    1c:a9:e5:41:2f:56:b3:08:45:15:5f:dd:2e:f3:f3:
+    a9:ac:08:83:83:b7:a1:40:00
+writing RSA key
+-----BEGIN RSA PRIVATE KEY-----
+MIIEpAIBAAKCAQEA0bUnUMvYlc3PT4wgod24Sk9vApoy+w3uEdWb115SxY9ponmA
+7VONdyz8vyVv7Ron7eSDYDAknmw34NOWQv7B/pC65gH7pwW1vmrlkHcjWdbeFFon
+PTX8sBZE44Vj88O/pm4fEA/Fkg2bETNqnR0xLHBv50wvWsGO4OO1jWk04WclUM4P
+2jB5FSGd2ETAuXyGfYp5NT/PFMBjO8bWhGJjPHxBMv5LWlSFlmOCIn1nNgxQclsv
+PLTPvFcF+uxVL37J0sVYkVshJEX0yx9uDyyGTHScvBx9mSDHipyeN6u/eRZVMotT
+90fX6fkgRLDILxOOh6HBiyFa+ogCC4QY66ECDwIDAQABAoIBAQDKGgPh4hLBjK+W
+wj1QwhWxyAv8Pg+T1EDz/yFJ1iV/ME9lviN6lWNoz3pl3PaZUvPYWLokIUGpTDIu
+Arx1pH/hjioRMSgON3qIIQ1MxQTUuDce9iOK4lS8fzm07AEAFE7HXqmhGRIXR/WC
+BkNhV5jkcxflmY6psJC6O7nkptfHwZlr7jWs3hCiaWqA073k5ICVKSysf0KS7CBJ
+P+kTRe7fK4DxeaXaw/h5Id263nk8ghlw2CsZTiLRAqqTs0+8io2FrTxsGT5xFdWs
+hK93GfNsURpfoGbsmY8FoJOuUslDxee0iHt5rz4MHbSJN7Yi7rrINxxGGba5y9Px
+ezAO9QVBAoGBAO8DOugblTX8mbjTCZPfL2GthekbtxzMet3kvyxvdmyyYF2NOuj0
+FfR0J6rcCjlbgpuP0QX6Ezykml40zx5orV0kUGJPAEOdFwrnFVExE06a4MdnQgv/
+JCdGZqukAp3uP6lNrwxBfdwHcw9S/aSgsmNdo/aEU/+rriRnVXc3Erc9AoGBAOCc
+uigfBmgG0XLGqCmsJmfMDgYSzlFixL7wPXLyAN5tNUcsg3GfHIoTofxyuepEQ6Sp
+Apsyo+zJDNyaDmn6K8D8sErR2P2WZ+w/kT8X+PGhBacGVvbAzFyx4C0061iCcZY5
+S8JeCMsaaQKdzCyPTNjW+WW9h0w/kXf3MfcbCFM7AoGAG2sFcObpIP5PLBKZgKsT
+pmLff7Q8N0OFvLqm65QFw8Zao6C1509IzXgdrM39JkNHIk1HLyZW2pgPVUs9j0F2
+0b5+sihZ4We94vRLT7sPee7uZjGENBgar5613G6+FhvklalhsUg6Bemc218r1ZzR
+mfB+BKN9d1DcczSfa0OYFAkCgYBN1GD5CA8bOsmWwNmCXyGLs/xkBF4ze0r7cpmI
+W+0LJcJhYD5Hv7+O5NCrfkGHuJHL27iIeJqusNfhFQzLkiFZJPYdZuuOq3BlP32f
+5Dmh2I7x2lOF+zaVJBmu8HhgWgrr5/ylZBod7o/WlUEra5hQRuVyaKMaO6i3bhOF
+MXvIAwKBgQCdujhpx2bnXB8wIgQ3cn0wpBKC4EkiyCZvnyyLtfaKvTvhELlHdkRB
+ig6IuVYDydBTMe0ZiO+2RKIOjtp5tNusv86kGA+8OPJHnrKZDJgBQKu8EHRyt8nD
+42S3vmNr9yuf6zmZpgZLBByp5UEvVrMIRRVf3S7z86msCIODt6FAAA==
+-----END RSA PRIVATE KEY-----
+
+=====================================
+]0;kaisernj@stu: ~/cs457/pa-02[01;32mkaisernj@stu[00m:[01;34m~/cs457/pa-02[00m$ ./pa-02
+bash: ./pa-02: No such file or directory
+]0;kaisernj@stu: ~/cs457/pa-02[01;32mkaisernj@stu[00m:[01;34m~/cs457/pa-02[00m$ ./pa-02.sh
+==============================
+Compiling all source
+==============================
+Starting the dispatcher
+	Dispatcher started and created these pipes
+	Amal-to-Basim control pipe: read=3  write=4
+	Amal-to-Basim data    pipe: read=5  write=6
+
+	Dispatcher is now waiting for Amal to terminate
+
+This is Amal's   REFERENCE Code By: Noah Kaiser
+
+
+This is Basim's   REFERENCE Code By: Noah Kaiser
+
+
+	Amal terminated ...  with status =0
+
+	Dispatcher is now waiting for Basim to terminate
+
+	Basim terminated ...  with status =0
+
+======  Amal's  LOG  =========
+
+This is Amal's   REFERENCE Code By: Noah Kaiser.
+
+Amal: I Will send digest to FD 4 and file to FD 6
+Amal: Starting to digest the input file
+
+Amal: Here is the digest of the file:
+0000 - 22 ed c4 16 ed bd 01 13-4d 93 17 4f 3b 4f 30 1f   ".......M..O;O0.
+0010 - 99 d5 67 d3 55 91 8c 47-b6 e1 6b c8 05 a5 2d 46   ..g.U..G..k...-F
+
+Amal: Here is the signature of the file:
+0000 - 4c 87 e6 a2 07 f2 2e e4-60 4f ad b9 4d 78 25 a1   L.......`O..Mx%.
+0010 - 01 9e ad eb d1 c5 e0 4d-e6 00 1d 3c d0 66 92 66   .......M...<.f.f
+0020 - 2c 0c 4c 0b 50 1a c0 78-3c 4f 20 22 94 6f 0c 10   ,.L.P..x<O ".o..
+0030 - 88 77 94 10 eb 30 97 6d-c6 f8 b5 91 f7 aa 64 3e   .w...0.m......d>
+0040 - 92 57 5d 1e 45 16 2e a5-bc 65 b2 7d 79 a3 cf 3d   .W].E....e.}y..=
+0050 - 72 62 99 48 84 62 2b 2f-73 62 3c 92 21 0a c2 a1   rb.H.b+/sb<.!...
+0060 - 07 ab 84 44 09 d9 16 3b-d8 ee fa 03 99 53 14 d0   ...D...;.....S..
+0070 - 6d 78 3e ad bd 5f 59 c4-e4 53 39 58 f9 9e eb f6   mx>.._Y..S9X....
+0080 - 49 c9 98 21 a8 d5 fb 79-95 10 70 06 ff e9 52 42   I..!...y..p...RB
+0090 - 6d f3 f5 bc f0 dc de d4-6a 1a 0a 8a f7 26 32 53   m.......j....&2S
+00a0 - a0 7d 97 25 10 39 8d e5-21 8e c2 5b 31 be d2 c6   .}.%.9..!..[1...
+00b0 - 2b a5 95 94 da 4d 04 fb-91 36 2b 2c c9 af 75 68   +....M...6+,..uh
+00c0 - e5 fe 18 05 e4 dc cb be-26 1e a6 74 02 50 5c 55   ........&..t.P\U
+00d0 - c9 f3 58 fd 09 50 3d de-0c 4d 05 bc 92 6a 59 37   ..X..P=..M...jY7
+00e0 - 8f 40 55 3d c7 6a d3 06-0f 43 9e e2 6b 58 74 1c   .@U=.j...C..kXt.
+00f0 - 83 9c a2 e9 19 34 f2 9c-77 b3 bc 22 28 da 10 fa   .....4..w.."(...
+
+======  Basim's  LOG  =========
+
+This is Basim's   REFERENCE Code By: Noah Kaiser.
+
+Basim: I Will recieve digest from FD 3 and file from FD 5
+Basim: Starting to receive incoming file and compute its digest
+
+Basim: Here is locally-computed the digest of the incoming file:
+0000 - 22 ed c4 16 ed bd 01 13-4d 93 17 4f 3b 4f 30 1f   ".......M..O;O0.
+0010 - 99 d5 67 d3 55 91 8c 47-b6 e1 6b c8 05 a5 2d 46   ..g.U..G..k...-F
+
+Basim: I received the following signature from Amal:
+0000 - 4c 87 e6 a2 07 f2 2e e4-60 4f ad b9 4d 78 25 a1   L.......`O..Mx%.
+0010 - 01 9e ad eb d1 c5 e0 4d-e6 00 1d 3c d0 66 92 66   .......M...<.f.f
+0020 - 2c 0c 4c 0b 50 1a c0 78-3c 4f 20 22 94 6f 0c 10   ,.L.P..x<O ".o..
+0030 - 88 77 94 10 eb 30 97 6d-c6 f8 b5 91 f7 aa 64 3e   .w...0.m......d>
+0040 - 92 57 5d 1e 45 16 2e a5-bc 65 b2 7d 79 a3 cf 3d   .W].E....e.}y..=
+0050 - 72 62 99 48 84 62 2b 2f-73 62 3c 92 21 0a c2 a1   rb.H.b+/sb<.!...
+0060 - 07 ab 84 44 09 d9 16 3b-d8 ee fa 03 99 53 14 d0   ...D...;.....S..
+0070 - 6d 78 3e ad bd 5f 59 c4-e4 53 39 58 f9 9e eb f6   mx>.._Y..S9X....
+0080 - 49 c9 98 21 a8 d5 fb 79-95 10 70 06 ff e9 52 42   I..!...y..p...RB
+0090 - 6d f3 f5 bc f0 dc de d4-6a 1a 0a 8a f7 26 32 53   m.......j....&2S
+00a0 - a0 7d 97 25 10 39 8d e5-21 8e c2 5b 31 be d2 c6   .}.%.9..!..[1...
+00b0 - 2b a5 95 94 da 4d 04 fb-91 36 2b 2c c9 af 75 68   +....M...6+,..uh
+00c0 - e5 fe 18 05 e4 dc cb be-26 1e a6 74 02 50 5c 55   ........&..t.P\U
+00d0 - c9 f3 58 fd 09 50 3d de-0c 4d 05 bc 92 6a 59 37   ..X..P=..M...jY7
+00e0 - 8f 40 55 3d c7 6a d3 06-0f 43 9e e2 6b 58 74 1c   .@U=.j...C..kXt.
+00f0 - 83 9c a2 e9 19 34 f2 9c-77 b3 bc 22 28 da 10 fa   .....4..w.."(...
+
+Basim: Here is Amal's decrypted signature:
+0000 - 22 ed c4 16 ed bd 01 13-4d 93 17 4f 3b 4f 30 1f   ".......M..O;O0.
+0010 - 99 d5 67 d3 55 91 8c 47-b6 e1 6b c8 05 a5 2d 46   ..g.U..G..k...-F
+
+
+Basim: Amal's signature is VALID
+
+
+==============================
+Verifying the File Unencrypted Transmission
+
+Files bunny.mp4 and bunny.cpy are identical
+
+]0;kaisernj@stu: ~/cs457/pa-02[01;32mkaisernj@stu[00m:[01;34m~/cs457/pa-02[00m$ exit
+exit
+
+Script done on 2022-10-26 19:22:03-04:00 [COMMAND_EXIT_CODE="0"]
